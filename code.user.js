@@ -7,6 +7,8 @@
 // @author      Slashbunny
 // @license     GPLv3
 // @description 2/22/2026, 10:28:17 PM
+// @updateURL   https://raw.githubusercontent.com/Slashbunny/userscript-sicko-search/refs/heads/main/code.user.js
+// @downloadURL https://raw.githubusercontent.com/Slashbunny/userscript-sicko-search/refs/heads/main/code.user.js
 // ==/UserScript==
 (function() {
   const artist_name = document.querySelector('#album_info .band_name a').textContent;
