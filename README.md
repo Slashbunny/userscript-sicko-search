@@ -4,4 +4,4 @@ Adds search buttons to album pages on Metal-Archives
 
 [Click here](https://github.com/Slashbunny/userscript-sicko-search/raw/refs/heads/main/code.user.js) to install.
 
-Tested with [Violentmonkey](https://violentmonkey.github.io/).
+Tested with [Violentmonkey](https://violentmonkey.github.io/) (Firefox) and [Tampermonkey](https://www.tampermonkey.net/) (Chrome).
