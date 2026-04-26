@@ -3,7 +3,7 @@
 // @namespace   https://github.com/Slashbunny
 // @match       https://www.metal-archives.com/albums/*
 // @grant       none
-// @version     2.1
+// @version     2.2
 // @author      Slashbunny
 // @license     GPLv3
 // @description 4/26/2026
@@ -23,8 +23,8 @@
       <dd>
         <a href="https://bandcamp.com/search?q=${encoded_quoted_search_string}&item_type=a" target="_blank" rel="noopener noreferrer"><img src="https://sickos.slashbunny.com/img/bc.png"></a>
         <a href="https://www.youtube.com/results?search_query=${encoded_quoted_search_string}" target="_blank" rel="noopener noreferrer"><img src="https://sickos.slashbunny.com/img/yt.png"></a>
-        <a href="https://lens.google.com/uploadbyurl?url=${encoded_quoted_cover_url_string}" target="_blank" rel="noopener noreferrer"><img src="https://sickos.slashbunny.com/img/gl.png"></a>
         <a href="https://www.google.com/search?q=${encoded_quoted_search_string}" target="_blank" rel="noopener noreferrer"><img src="https://sickos.slashbunny.com/img/google.png"></a>
+        <a href="https://lens.google.com/uploadbyurl?url=${encoded_quoted_cover_url_string}" target="_blank" rel="noopener noreferrer"><img src="https://sickos.slashbunny.com/img/gl.png"></a>
       </dd>
   `);
 })();
